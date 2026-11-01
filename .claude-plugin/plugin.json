@@ -1,5 +1,6 @@
 {
   "name": "outside-chair-knowledge",
+  "displayName": "Outside Chair — Knowledge",
   "description": "Know who confirmed an exact version, when, what contradicts it and whether your organisation can use it.",
   "version": "0.1.10",
   "author": {
@@ -8,5 +9,11 @@
     "url": "https://outsidechair.com"
   },
   "homepage": "https://outsidechair.com/knowledge",
+  "repository": "https://github.com/stewaihq/outside-chair-knowledge-plugin",
+  "icon": "./assets/outside-chair-mark.png",
+  "documentationUrl": "https://outsidechair.com/connect",
+  "supportUrl": "https://outsidechair.com/support",
+  "privacyPolicyUrl": "https://outsidechair.com/privacy",
+  "termsOfServiceUrl": "https://outsidechair.com/terms",
   "keywords": ["knowledge", "evidence", "confirmation", "governance", "mcp"]
 }
